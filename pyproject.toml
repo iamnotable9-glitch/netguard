@@ -1,0 +1,9 @@
+[project]
+name = "netguard-toolkit"
+version = "1.0.0"
+description = "Read-only Wi-Fi security and network diagnostics for Linux and Termux"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+packages = ["netguard"]
